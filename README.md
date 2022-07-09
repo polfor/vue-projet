@@ -1,24 +1,4 @@
-# vue-projet
+# Projet de fin de cours - VueJS
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Projet de VueJS 2 Consistant à créer une base de donnée locale de films réactive,
+permettant de les modifier, en ajouter, en supprimer.
