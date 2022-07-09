@@ -1,0 +1,68 @@
+
+  [
+        {
+            "name": "Baby Driver",
+            "genre": "Action",
+            "language": "EN",
+            "date": 2017,
+            "poster": "https://www.vintagemovieposters.co.uk/wp-content/uploads/2020/04/IMG_5274-1034x1536.jpeg" ,
+            "director" : {
+                "lastName" : "Wright",
+                "firstName" : "Edgar",
+                "birth" : "18 Avril 1974",
+                "country" : "Angleterre"
+            }
+        },
+        {
+            "name": "Cloverfield",
+            "genre": "Horreur",
+            "language": "EN",
+            "date": 2008,
+            "poster": "https://cdn.slidesharecdn.com/ss_thumbnails/cloverfield-teasers-090616082532-phpapp01-thumbnail-4.jpg?cb=1245140771" ,
+            "director" : {
+                "lastName" : "Reeves",
+                "firstName" : "Matt",
+                "birth" : "27 Avril 1966",
+                "country" : "Etats-Unis"
+            }
+        },
+        {
+            "name": "Promare",
+            "genre": "Animation",
+            "language": "JP",
+            "date": 2019,
+            "poster": "https://www.pride.com/sites/www.pride.com/files/promare-full-poster.jpg" ,
+            "director" : {
+                "lastName" : "Imaishi",
+                "firstName" : "Hiroyuki",
+                "birth" : "4 Octobre 1971",
+                "country" : "Japon"
+            }
+        },
+        {
+            "name": "Akira",
+            "genre": "Animation",
+            "language": "JP",
+            "date": 1988,
+            "poster": "https://m.media-amazon.com/images/M/MV5BNTc5ZmMzZmItYTVhZS00Y2EwLTkyOTAtZjY1YmIxZjIwOWNhXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_FMjpg_UX1195_.jpg" ,
+            "director" : {
+                "lastName" : "Otomo",
+                "firstName" : "Katsuhiro",
+                "birth" : "14 Avril 1954",
+                "country" : "Japon"
+            }
+        },
+        {
+            "name": "Mad Max: Fury Road",
+            "genre": "Action",
+            "language": "EN",
+            "date": 2015,
+            "poster": "https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" ,
+            "director" : {
+                "lastName" : "Miller",
+                "firstName" : "George",
+                "birth" : "3 Mars 1945",
+                "country" : "Etats-Unis"
+            }
+        }
+    ]
